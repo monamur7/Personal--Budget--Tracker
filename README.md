@@ -1,4 +1,4 @@
-# Personal--Budget--Tracker
+# Personal--Budget--Tracker--Project
 
 • **Comprehensive Budget Solution:** This Personal Budget Tracker offers a complete spectrum of functionalities, guiding users through a zero-based multi-period Budget Planning process. This encompasses meticulous Budget Tracking, while also presenting an interactive Budget Dashboard for continuous monitoring and evaluation of personal budget performance. </p>
 • **Holistic Financial Insight:** The tracker's prowess lies in its ability to accommodate diverse income and expense frequencies, including irregular streams such as annual, quarterly, or monthly-changing categories. It intelligently addresses real-life scenarios, effortlessly incorporating late income as disposable income for the subsequent month. </p>
